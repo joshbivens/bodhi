@@ -1,4 +1,5 @@
-# bodhi
+# bodhi - Meditation Timer and Log
+Designed with the help of Ashley Smith in [Figma](www.figma.com).
 
 ## Project setup
 ```
